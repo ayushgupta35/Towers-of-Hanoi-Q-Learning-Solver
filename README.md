@@ -50,8 +50,5 @@ Implement additional exploration strategies, such as Upper Confidence Bound (UCB
 Extend the project to larger MDPs to test the scalability of the algorithms.
 Integrate more complex reward structures to study the impact on learning behavior.
 
-# License
-This project is open-source and available under the MIT License.
-
 # Acknowledgments
 This project was inspired by assignments from the University of Washington and UC Berkeley, which provided the foundation for exploring reinforcement learning concepts through the classic Towers of Hanoi puzzle.
